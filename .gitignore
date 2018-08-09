@@ -18,3 +18,8 @@ publish
 .project
 target
 BenchmarkDotNet.Artifacts
+
+
+*template.xml
+*.jar
+.sonarqube
