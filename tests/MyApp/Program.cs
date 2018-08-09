@@ -7,4 +7,8 @@ namespace MyApp {
             Console.WriteLine("Hello World!");
         }
     }
+
+    class Hello {
+
+    }
 }
