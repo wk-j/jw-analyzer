@@ -1,12 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
-    <ProjectReference Include="..\..\src\JwAnalyzer\JwAnalyzer.csproj" />
+    <PackageReference Include="wk.JwAnalyzer" Version="0.1.1"/>
   </ItemGroup>
-
 </Project>
